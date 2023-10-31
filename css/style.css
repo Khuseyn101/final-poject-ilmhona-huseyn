@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/**Netralniy**/
+
+bb{
+    color: royalblue;
+}
+
+
+/**Button's**/
+.btn-1{
+    margin-top: 5px;
+}
+
+.btn-2{
+    width: 30vh;
+    height: 10vh;
+}
+
+.btn-3{
+    margin-left: 60vh;
+    width: 15vh;
+    height: 10vh;
+
+}
+/**Images**/
+
+
+
+
+.img-1{
+    border: 2px solid black;
+    border-radius: 6px;
+}
+
+.img-2{
+    object-fit: cover;
+}
+
+
+
+/**Text's**/
+
+
+.text-1{
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+}
+
+.text-2{
+    margin-left: 25vh;
+    margin-top: 15vh;
+    
+}
+
+.text-3{
+    font-size: 20px;
+}
+
+.text-4{
+    font-weight: 400;
+    margin-bottom: 15px;
+    margin-top: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: royalblue;
+}
+
+.text-6{
+    font-size: 50px;
+    border-bottom: 2px solid black;
+    text-align: center;
+    margin-bottom: 26px;
+    margin-top: 15px;
+
+}
+
+ /**Section's**/
+.section-1{
+    margin-top: 55px;
+    margin-bottom: 25vh;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+.section-2{
+    margin-top: 45vh;
+}
+
+
+.section-3{
+    text-align: center;
+    padding-bottom: 15vh;
+    
+}
+
+.section-4{
+    justify-content: center;
+    text-align: center;
+    padding-left: 100px;
+}
+
+  /**Block's**/
+.block-1{
+    margin-top: 5vh;
+}
+
+.block-2{
+    margin-top: 15vh;
+    margin-bottom: 10vh;
+    padding-top: 10vh;
+}
+
+
+.block-3{
+    margin-top: 5vh;
+}
+
+
+
+/**Sponsor's**/
+
+.text-megafon{
+    text-align: center;
+    color: royalblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.img-megafon{
+    margin-top: 25vh;
+}
+
+.btn-sponsor{
+    margin-top: 10vh;
+    margin-left: 25vh;
+    margin-bottom: 15px;
+}
